@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Nice to meet you
+
+I'm Giovanni Andrade, Software engineer and fullstack developer at Easy Commtech
+
+- 🔭 I’m currently working on this projects in order to achieve a portfolio and hopefully skip some tests
+- 🌱 I’m currently improving my skills looking to collaborate on Open-source projects
+- 💬 Ask me about Information Security and developmente
+- 📫 How to reach me: You can reach me quickly by my email or linkedin, here they are
+- ⚡ Fun fact: I dont like open-source, i'm a ruthless capitalist, everything you do generates value, here i'm tho.😄
+
 <!--
 **alumniGiovanni/alumniGiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
