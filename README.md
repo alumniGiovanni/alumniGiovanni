@@ -4,10 +4,9 @@ Nice to meet you
 
 I'm Giovanni Andrade, Software engineer and fullstack developer at Easy Commtech
 
-- 🔭 I’m currently working on this projects in order to achieve a portfolio and hopefully skip some tests
-- 🌱 I’m currently improving my skills looking to collaborate on Open-source projects
-- 💬 Ask me about Information Security and developmente
-- 📫 How to reach me: You can reach me quickly by my email or linkedin, here they are
+- 🔭 I’m currently working on these projects to create a portfolio and hopefully skip some tests
+- 💬 Ask me about Information Security and development
+- 📫 How to reach me: You can reach me quickly on linkedin https://www.linkedin.com/in/giovanni-andrade0000/
 - ⚡ Fun fact: I dont like open-source, i'm a ruthless capitalist, everything you do generates value, here i'm tho.😄
 
 <!--
