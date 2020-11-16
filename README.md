@@ -4,7 +4,7 @@ Nice to meet you
 
 I'm Giovanni Andrade, Software engineer and fullstack developer at Easy Commtech
 
-- 🔭 I’m currently working on these projects to create a portfolio and hopefully skip some tests
+- 🔭 I’m currently working on these projects to create a git portfolio and hopefully skip some interview tests
 - 💬 I speak English, Portuguese, French, Spanish and a little bit of German, thats why you see multiple languages across the comments
 - 📫 How to reach me: You can reach me quickly on linkedin https://www.linkedin.com/in/giovanni-andrade0000/
 - ⚡ Fun fact: I dont like open-source. I'm a ruthless capitalist, here i'm tho.😄
