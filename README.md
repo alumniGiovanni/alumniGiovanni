@@ -4,7 +4,7 @@ Nice to meet you
 
 I'm Giovanni, 
 
-- 💬 I speak English, Portuguese, French, Spanish and a little bit of German,so you may see multiple languages across the commits messages
+- 💬 I speak English, Portuguese, French, Spanish and a little bit of German, so you may see multiple languages across the commits messages
 - 📫 How to reach me: You can reach me quickly on linkedin https://www.linkedin.com/in/giovanni-andrade0000/
 
 <!--
