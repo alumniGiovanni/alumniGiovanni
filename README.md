@@ -4,10 +4,8 @@ Nice to meet you
 
 I'm Giovanni, 
 
-- 🔭 I’m currently working on these projects to create a git portfolio and hopefully skip some interview tests
-- 💬 I speak English, Portuguese, French, Spanish and a little bit of German, thats why you see multiple languages across the comments
+- 💬 I speak English, Portuguese, French, Spanish and a little bit of German,so you may see multiple languages across the commits messages
 - 📫 How to reach me: You can reach me quickly on linkedin https://www.linkedin.com/in/giovanni-andrade0000/
-- ⚡ Fun fact: I dont like open-source.😄
 
 <!--
 **alumniGiovanni/alumniGiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
